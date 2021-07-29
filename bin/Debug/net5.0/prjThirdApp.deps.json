@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "prjThirdApp/1.0.0": {
+        "runtime": {
+          "prjThirdApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prjThirdApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

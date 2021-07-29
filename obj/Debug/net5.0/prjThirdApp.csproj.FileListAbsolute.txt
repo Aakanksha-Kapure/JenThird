@@ -1,0 +1,16 @@
+C:\LNT\csharp\Day3\prjThirdApp\bin\Debug\net5.0\prjThirdApp.exe
+C:\LNT\csharp\Day3\prjThirdApp\bin\Debug\net5.0\prjThirdApp.deps.json
+C:\LNT\csharp\Day3\prjThirdApp\bin\Debug\net5.0\prjThirdApp.runtimeconfig.json
+C:\LNT\csharp\Day3\prjThirdApp\bin\Debug\net5.0\prjThirdApp.runtimeconfig.dev.json
+C:\LNT\csharp\Day3\prjThirdApp\bin\Debug\net5.0\prjThirdApp.dll
+C:\LNT\csharp\Day3\prjThirdApp\bin\Debug\net5.0\ref\prjThirdApp.dll
+C:\LNT\csharp\Day3\prjThirdApp\bin\Debug\net5.0\prjThirdApp.pdb
+C:\LNT\csharp\Day3\prjThirdApp\obj\Debug\net5.0\prjThirdApp.csproj.AssemblyReference.cache
+C:\LNT\csharp\Day3\prjThirdApp\obj\Debug\net5.0\prjThirdApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LNT\csharp\Day3\prjThirdApp\obj\Debug\net5.0\prjThirdApp.AssemblyInfoInputs.cache
+C:\LNT\csharp\Day3\prjThirdApp\obj\Debug\net5.0\prjThirdApp.AssemblyInfo.cs
+C:\LNT\csharp\Day3\prjThirdApp\obj\Debug\net5.0\prjThirdApp.csproj.CoreCompileInputs.cache
+C:\LNT\csharp\Day3\prjThirdApp\obj\Debug\net5.0\prjThirdApp.dll
+C:\LNT\csharp\Day3\prjThirdApp\obj\Debug\net5.0\ref\prjThirdApp.dll
+C:\LNT\csharp\Day3\prjThirdApp\obj\Debug\net5.0\prjThirdApp.pdb
+C:\LNT\csharp\Day3\prjThirdApp\obj\Debug\net5.0\prjThirdApp.genruntimeconfig.cache
